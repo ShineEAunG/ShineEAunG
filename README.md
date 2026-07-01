@@ -22,7 +22,7 @@ I also build C#/.NET backend systems, including authentication, authorization, i
 
 ### [Catalog-Based Star Tracker](https://github.com/ShineEAunG/Catalog-Based-Star-Tracker)
 
-A C++/OpenCV star tracker software pipeline for detecting stars from images, matching them with catalog data, verifying candidate matches, and estimating spacecraft attitude.
+A C++/OpenCV star tracker software pipeline for detecting stars from images, matching them with Hipparcos catalog data, verifying candidate matches using Pyramid algorithm, and estimating spacecraft attitude with QUEST and SVD algorithm.
 
 ## Project Showcase: Catalog-Based Star Tracker
 
