@@ -34,7 +34,7 @@ A C++/OpenCV catalog-based star tracker pipeline for synthetic star field genera
 </p>
 
 <p align="center">
-  <em>Example output from my catalog-based star tracker pipeline.</em>
+  <em>Example output of Big Dipper Constellation Star Field Image from my catalog-based star tracker pipeline project.</em>
 </p>
 
 ### [Hipparcos Catalog Generator](https://github.com/ShineEAunG/Hipparcos-Catalog-Generator)
