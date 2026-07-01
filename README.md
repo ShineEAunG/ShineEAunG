@@ -20,19 +20,19 @@ I also build C#/.NET backend systems, including authentication, authorization, i
 
 ## Featured Projects
 
-### Catalog-Based Star Tracker
+### [Catalog-Based Star Tracker](https://github.com/ShineEAunG/Catalog-Based-Star-Tracker)
 
-A C++ star tracker software pipeline for detecting stars from images, matching them with catalog data, verifying candidate matches, and estimating spacecraft attitude.
+A C++/OpenCV star tracker software pipeline for detecting stars from images, matching them with catalog data, verifying candidate matches, and estimating spacecraft attitude.
 
-### Hipparcos Catalog Generator
+### [Hipparcos Catalog Generator](https://github.com/ShineEAunG/Hipparcos-Catalog-Generator)
 
 A C++ tool that converts Hipparcos star catalog data into optimized binary catalog files and pair database files for star tracker identification.
 
-### Enrollment with Security Infrastructure
+### [Enrollment with Security Infrastructure](https://github.com/ShineEAunG/Enrollment_with_security_infrastructure)
 
 An ASP.NET Core backend project focused on custom authentication, authorization, identity management, and enrollment workflow.
 
-### Inventory Management System
+### [Inventory Management System](https://github.com/ShineEAunG/Inventory-Management)
 
 An ASP.NET Core inventory management system using structured models, repositories, services, and database integration.
 
