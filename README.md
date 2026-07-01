@@ -14,6 +14,19 @@ I work on CubeSat-related software and attitude determination concepts, especial
 
 I am developing a catalog-based star tracker pipeline using C++ and OpenCV. The pipeline includes image preprocessing, star detection, catalog matching, pyramid/pattern-based identification, reprojection verification, and attitude estimation.
 
+## Project Showcase: Catalog-Based Star Tracker
+
+A C++/OpenCV catalog-based star tracker pipeline for synthetic star field generation, star detection, candidate labeling, catalog matching, and attitude estimation.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShineEAunG/Catalog-Based-Star-Tracker/main/doc/Synthetic_Star_Field.png" alt="Generated synthetic star field" width="45%">
+  <img src="https://raw.githubusercontent.com/ShineEAunG/Catalog-Based-Star-Tracker/main/doc/labeled_candidate_stars.png" alt="Labeled star identification result" width="45%">
+</p>
+
+<p align="center">
+  <em>Example output from my catalog-based star tracker pipeline.</em>
+</p>
+
 ### Backend System Development
 
 I also build C#/.NET backend systems, including authentication, authorization, inventory management, database-driven applications, and structured backend architecture.
