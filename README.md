@@ -15,4 +15,4 @@ Space Systems & Software Engineer focused on CubeSat ADCS, star tracker algorith
 3. Enrollment System with Security Infrastructure
 
 ## Technical Skills
-C++, OpenCV, Python, MATLAB, ASP.NET Core, Git, GitHub, ADCS, Orbital Mechanics
+C++, OpenCV, ASP.NET Core, Git, GitHub, ADCS
